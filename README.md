@@ -76,6 +76,10 @@ The data used in this project is located in the data/project_heart_disease.csv f
 - Add more interactive charts.
 - Include data filtering and dynamic chart updates.
 
+## 🧑‍🤝‍🧑 Contributors
+- Lê Xuân Hoàng Sơn
+- Đỗ Lương Nhật Minh
+
 
 ## Contact
 📧 Email: hoangson14112004@gmail.com
